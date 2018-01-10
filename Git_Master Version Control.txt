@@ -1,0 +1,9 @@
+
+version control - method of recording changes to a file or set of files.
+
+		- recording changes allows to come back to specific versions
+
+types of version control
+		- centralized - central server
+
+		- distributed - (git)
