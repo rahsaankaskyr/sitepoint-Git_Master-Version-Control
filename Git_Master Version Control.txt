@@ -7,3 +7,8 @@ types of version control
 		- centralized - central server
 
 		- distributed - (git)
+
+intro to git
+		- distributed version control system
+		- developed by Linus Torvald, also developed the OS, Linux
+		- github, is code sharing & publishing service
